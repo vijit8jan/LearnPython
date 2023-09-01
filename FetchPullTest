@@ -1,2 +1,3 @@
-Pirnt("Git fetch pull")
-test
+print("Git fetch pull")
+print ("Comapre two local git branches:  git diff Branch_1..Branch_2")
+print ("Compare local and remote branch: 1. Check the branch structure:  git branch -a \n 2. Compare:  git diff Local_branch Remote_branch")
